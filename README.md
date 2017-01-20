@@ -13,3 +13,8 @@ Todellisuudessa asynkroninen asiakaskokemus panostaa interaktiivisuuteen ajattel
 [Wikisivu wikeistä](https://fi.wikipedia.org/wiki/Wiki)
 
 ![](http://www.tuunix.fi/www/media/contentpictures2012a/ruokapaivakirja_kaavio.jpg)
+
+Pvm | Aika | Ohjelma
+---|---
+20.1. | 8-9 | Aamiainen
+21.1. |19-20 | Sauna
