@@ -17,4 +17,4 @@ Todellisuudessa asynkroninen asiakaskokemus panostaa interaktiivisuuteen ajattel
 Pvm | Aika | Ohjelma
 ---|---
 20.1. | 8-9 | Aamiainen
-21.1. |19-20 | Sauna
+21.1. | 19-20 | Sauna
