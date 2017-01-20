@@ -11,3 +11,5 @@ Keskeiset ideologiset periaatteet osoittavat, että vallankumouksellinen kolmann
 Todellisuudessa asynkroninen asiakaskokemus panostaa interaktiivisuuteen ajattelematta organisaation sisäisiä ratkaisumalleja. 
 
 [Wikisivu wikeistä](https://fi.wikipedia.org/wiki/Wiki)
+
+![](http://www.tuunix.fi/www/media/contentpictures2012a/ruokapaivakirja_kaavio.jpg)
